@@ -1,0 +1,2 @@
+The dataset I used in this project is large to upload, can be downloaded by following this link:
+https://www.kaggle.com/google/google-landmarks-dataset
